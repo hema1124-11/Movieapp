@@ -1,5 +1,5 @@
 import { HashRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./pages/Home";
+import Navbar from "./pages/Navbar";
 import Home from "./pages/Home";
 import WatchList from "./pages/WatchList"
 import { WatchListProvider } from "./context/WatchListContext";
